@@ -1,0 +1,11 @@
+.home-container {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+}
+
+
+.home-title {
+  color: white;
+  text-align: center;
+}

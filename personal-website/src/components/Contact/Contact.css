@@ -1,0 +1,17 @@
+.contact-container {
+  color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#contact-header {
+  display: flex;
+  justify-content: center;
+}
+
+#contact-info {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
