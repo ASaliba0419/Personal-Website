@@ -8,12 +8,6 @@ const Nav = () => {
     <>
       <div className="nav-bar">
 
-        <div className="about-nav">
-          <Link to='/about'>
-            <p>About Me</p>
-          </Link>
-        </div>
-
         <div className="portfolio-nav">
           <Link to='/portfolio'>
             <p>Portfolio</p>
@@ -23,12 +17,6 @@ const Nav = () => {
         <div className='title-nav'>
           <Link to='/'>
             <h1>Andrew Saliba</h1>
-          </Link>
-        </div>
-
-        <div className="photography-nav">
-          <Link to='/photos'>
-            <p>Photography</p>
           </Link>
         </div>
 
