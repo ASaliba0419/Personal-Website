@@ -21,9 +21,8 @@
 } 
 
 #about-me-photo {
-  height: 29vh;
-  width: 15vw;
-  border-radius: 100%;
+  width: 20vw;
+  border-radius: 50%;
   align-self: center;
 }
 
@@ -38,6 +37,9 @@
   width: 6%;
   display: flex;
   flex-direction: row;
+  border: white solid 2px;
+  background-color: white;
+  border-radius: 30%;
 }
 
 #resume-home {
