@@ -5,7 +5,7 @@ const Portfolio = () => {
   return (
     <>
       <div className='port-container'>
-        <h1 id='port-header'>Projects <a href="https://docs.google.com/document/d/1gLQ7YX86R2UuGAB86_mtEFYm1QjF7NEWDetMO4xO3nY/edit?usp=sharing" id='port-header' target='_blank'>/ Resumé</a></h1>
+        <h1 id='port-header'>Projects</h1>
 
 
         <div className='port-info'>

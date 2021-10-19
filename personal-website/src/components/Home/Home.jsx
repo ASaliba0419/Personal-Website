@@ -16,14 +16,8 @@ const Home = () => {
         I am an avid gamer/software engineer with a passion for technology, public speaking, and design. My extensive retail experience has allowed me to thrive in any team-oriented, fast-paced environment,  as well as to adapt to various new challenges. No matter what team I am a part of, my creativity will always shine. 
         </p>
 
-        <a href="https://docs.google.com/document/d/1gLQ7YX86R2UuGAB86_mtEFYm1QjF7NEWDetMO4xO3nY/edit?usp=sharing" id='resume-home' target='_blank'><h2>Check out my Resumé here!</h2></a>
+        <a href="https://drive.google.com/file/d/1fwrIG0vUmiUj52ZaUqBprJPHb2HFDhS4/view?usp=sharing" id='resume-home' target='_blank'><h2>Check out my Resumé here!</h2></a>
         
-      
-        
-
-
-
-        <h1 className="skills">Skills</h1>
         <div className="skillphotos">
         <img id='skill-photos' src="https://res.cloudinary.com/dtp9f7dv2/image/upload/v1634653967/Portfolio/Skills/download_itbdal.png" alt="HTML" />
         <img id='skill-photos' src="https://res.cloudinary.com/dtp9f7dv2/image/upload/v1634653967/Portfolio/Skills/cssLogo.4e67641b_voe6xv.png" alt="CSS" />
