@@ -4,6 +4,7 @@ import './Contact.css'
 const Contact = () => {
   return (
     <>
+              
       <div className='contact-container'>
         <h2 id="contact-header">Please get in contact with me!</h2>
 

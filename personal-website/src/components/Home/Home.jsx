@@ -17,7 +17,7 @@ const Home = () => {
           </p>
         </div>
 
-        <a href="https://drive.google.com/file/d/1qBWmniBBHZjcdNRaLjo48dKGT1yysYbS/view?usp=sharing" id='resume-home' target='_blank'><h2>Check out my Resumé here!</h2></a>
+        <a href="https://drive.google.com/file/d/1R6wkBQwtbyR640U331GN5AY-xdMDNR2l/view?usp=sharing" id='resume-home' target='_blank'><h2>Check out my Resumé here!</h2></a>
 
         <div className="skillphotos">
           <img id='skill-photos' src="https://res.cloudinary.com/dtp9f7dv2/image/upload/v1634653967/Portfolio/Skills/download_itbdal.png" alt="HTML" />
