@@ -15,13 +15,11 @@
   padding: 0 20vw;
   display: flex;
   align-self: center;
-  border: white 2px solid;
 }
 
 #about-info {
   color: white;
   font-size: 1.5rem;
-  border: red solid 2px;
 } 
 
 #about-me-photo {
@@ -36,11 +34,14 @@
   gap: 50px;
 }
 
+.skillphotos2 {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
 
 #skill-photos {
   width: 6%;
-  display: flex;
-  flex-direction: row;
   border: white solid 2px;
   background-color: white;
   border-radius: 30%;
@@ -57,19 +58,25 @@
     padding: 0 1vw;
     display: flex;
     align-self: center;
-    border: red 2px solid;
+    width: 97vw;
   }
   
   #about-info {
     color: white;
     font-size: 3.5vw;
-    border: white solid 2px;
   } 
 
   #about-me-photo {
     width: 60vw;
     border-radius: 50%;
     align-self: center;
+  }
+
+  #skill-photos {
+    width: 9%;
+    border: white solid 2px;
+    background-color: white;
+    border-radius: 30%;
   }
 
 }
