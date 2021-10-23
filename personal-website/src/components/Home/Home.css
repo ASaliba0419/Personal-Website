@@ -6,22 +6,26 @@
   text-align: center;
 }
 
-
 #home-title {
   color: white;
   text-align: center;
 }
 
+.about-info-container {
+  padding: 0 20vw;
+  display: flex;
+  align-self: center;
+  border: white 2px solid;
+}
+
 #about-info {
   color: white;
   font-size: 1.5rem;
-  width: 45%;
-  display: flex;
-  align-self: center;
+  border: red solid 2px;
 } 
 
 #about-me-photo {
-  width: 20vw;
+  width: 25vw;
   border-radius: 50%;
   align-self: center;
 }
@@ -45,4 +49,27 @@
 #resume-home {
   text-decoration: underline;
   color: white;
+}
+
+@media only screen and (max-width: 750px) {
+
+  .about-info-container {
+    padding: 0 1vw;
+    display: flex;
+    align-self: center;
+    border: red 2px solid;
+  }
+  
+  #about-info {
+    color: white;
+    font-size: 3.5vw;
+    border: white solid 2px;
+  } 
+
+  #about-me-photo {
+    width: 60vw;
+    border-radius: 50%;
+    align-self: center;
+  }
+
 }

@@ -5,7 +5,8 @@ import Contact from './components/Contact/Contact.jsx'
 import Portfolio from './components/Portfolio/Portfolio'
 import Home from './components/Home/Home'
 import { Route } from 'react-router-dom'
-
+// TODO: tab
+// COMPLETED: tab
 
 const App = () => {
 

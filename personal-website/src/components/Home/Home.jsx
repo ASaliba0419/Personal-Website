@@ -11,10 +11,11 @@ const Home = () => {
         </h2>
 
           <img src="https://res.cloudinary.com/dtp9f7dv2/image/upload/v1634584699/Portfolio/About%20Me/IMG_3831_glmb29.jpg" id='about-me-photo' alt="Andrew Saliba" />
-          
+          <div className="about-info-container">
         <p id='about-info'>
-        I am an avid gamer/software engineer with a passion for technology, public speaking, and design. My extensive retail experience has allowed me to thrive in any team-oriented, fast-paced environment,  as well as to adapt to various new challenges. No matter what team I am a part of, my creativity will always shine. 
-        </p>
+        I am an audio/software engineer with a passion for technology, public speaking, and design. My extensive retail experience has allowed me to thrive in any team-oriented, fast-paced environment, as well as to adapt to various new challenges. No matter what team I am a part of, my creativity will always shine. 
+          </p>
+          </div>
 
         <a href="https://drive.google.com/file/d/1qBWmniBBHZjcdNRaLjo48dKGT1yysYbS/view?usp=sharing" id='resume-home' target='_blank'><h2>Check out my Resumé here!</h2></a>
         
