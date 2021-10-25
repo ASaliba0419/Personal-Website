@@ -5,7 +5,9 @@ const Portfolio = () => {
   return (
     <>
       <div className='port-container'>
+      <a href="https://github.com/ASaliba0419" target='_blank'>
         <h1 id='port-header'>Projects</h1>
+        </a>
 
 
         <div className='port-info'>
