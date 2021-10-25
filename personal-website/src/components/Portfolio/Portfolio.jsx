@@ -9,7 +9,6 @@ const Portfolio = () => {
         <h1 id='port-header'>Projects</h1>
         </a>
 
-
         <div className='port-info'>
           <a href="https://asaliba0419.github.io/Slurm-Factory/" target="_blank">
             <p id='port-title'>Futurama API</p>
