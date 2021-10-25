@@ -63,7 +63,7 @@
   
   #about-info {
     color: white;
-    font-size: 3.5vw;
+    font-size: 4vw;
   } 
 
   #about-me-photo {
@@ -74,7 +74,6 @@
 
   #skill-photos {
     width: 9%;
-    border: white solid 2px;
     background-color: white;
     border-radius: 30%;
   }
