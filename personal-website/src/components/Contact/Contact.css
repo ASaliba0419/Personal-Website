@@ -1,5 +1,4 @@
 .contact-container {
-  color: white;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -14,6 +13,5 @@
   display: flex;
   justify-content: center;
   text-align: center;
-  color: white;
   text-decoration: underline;
 }
